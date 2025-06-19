@@ -1,0 +1,43 @@
+﻿# UEPluginLocalize English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: UEPluginLocalize\n"
+"POT-Creation-Date: 2025-06-19 14:58\n"
+"PO-Revision-Date: 2025-06-19 14:58\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	PluginButtonDialogText
+#. SourceLocation:	Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalize.cpp(50)
+#: Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalize.cpp(50)
+msgctxt "FUEPluginLocalizeModule,PluginButtonDialogText"
+msgid "Add code to {0} in {1} to override this button's actions"
+msgstr "Add code to {0} in {1} to override this button's actions"
+
+#. Key:	PluginAction
+#. SourceLocation:	Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalizeCommands.cpp(9)
+#: Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalizeCommands.cpp(9)
+msgctxt "UICommands.FUEPluginLocalizeModule,PluginAction"
+msgid "UEPluginLocalize"
+msgstr "UEPluginLocalize"
+
+#. Key:	PluginAction_ToolTip
+#. SourceLocation:	Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalizeCommands.cpp(9)
+#: Plugins/UEPluginLocalize/Source/UEPluginLocalize/Private/UEPluginLocalizeCommands.cpp(9)
+msgctxt "UICommands.FUEPluginLocalizeModule,PluginAction_ToolTip"
+msgid "Execute UEPluginLocalize action"
+msgstr "Execute UEPluginLocalize action"
+
+#. Key:	UEPluginLocalize
+#. SourceLocation:	Plugins/UEPluginLocalize/Source/UEPluginLocalize/Public/UEPluginLocalizeCommands.h(13)
+#: Plugins/UEPluginLocalize/Source/UEPluginLocalize/Public/UEPluginLocalizeCommands.h(13)
+msgctxt "Contexts,UEPluginLocalize"
+msgid "UEPluginLocalize Plugin"
+msgstr "UEPluginLocalize Plugin"
+
