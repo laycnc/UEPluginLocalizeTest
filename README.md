@@ -1,0 +1,2 @@
+# UEPluginLocalizeTest
+UnrealEngine5のプラグインをローカライズする為のテストです
